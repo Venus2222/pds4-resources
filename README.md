@@ -32,7 +32,7 @@ Particle|1.4.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/partic
 
 The complete list of dictionaries is available [here](https://pds.nasa.gov/datastandards/schema/released/)
 
-## External Resoureces
+## External Resources
 
 [SBN Wiki](http://sbndev.astro.umd.edu/wiki/SBN_PDS4_Wiki)
 
