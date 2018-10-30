@@ -49,3 +49,5 @@ The complete list of dictionaries is available [here](https://pds.nasa.gov/datas
 [LD3](https://ld3.psi.edu) - [github](https://github.com/sbn-psi/ldd-transform)
 
 [PDS4 Viewer](http://sbndev.astro.umd.edu/wiki/PDS4_Viewer) - [github](https://github.com/Small-Bodies-Node/pds4_tools)
+
+Additional tools are available at the [PDS Tool Registry] (https://pds.nasa.gov/tools/tool-registry/)
