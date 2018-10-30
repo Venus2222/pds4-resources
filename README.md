@@ -34,7 +34,8 @@ The complete list of dictionaries is available [here](https://pds.nasa.gov/datas
 
 ## External Resources
 
-[SBN Wiki](http://sbndev.astro.umd.edu/wiki/SBN_PDS4_Wiki)
+* [SBN Wiki](http://sbndev.astro.umd.edu/wiki/SBN_PDS4_Wiki)
+  * [Small Bodies Target Names](http://sbndev.astro.umd.edu/wiki/Target_Names)
 
 ## Tools
 
