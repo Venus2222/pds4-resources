@@ -50,4 +50,4 @@ The complete list of dictionaries is available [here](https://pds.nasa.gov/datas
 
 [PDS4 Viewer](http://sbndev.astro.umd.edu/wiki/PDS4_Viewer) - [github](https://github.com/Small-Bodies-Node/pds4_tools)
 
-Additional tools are available at the [PDS Tool Registry] (https://pds.nasa.gov/tools/tool-registry/)
+Additional tools are available at the [PDS Tool Registry](https://pds.nasa.gov/tools/tool-registry/)
