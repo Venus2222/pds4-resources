@@ -28,7 +28,7 @@ Particle|1.4.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/partic
 |Ring-Moon Systems|1.8.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/rings/v1/PDS4_RINGS_1800_1500.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/rings/v1/PDS4_RINGS_1800_1500.sch)|[github](https://github.com/nasa-pds-data-dictionaries/ldd-rings)|
 |Spectral|1.10.1.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/sp/v1/PDS4_SP_1A10.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/sp/v1/PDS4_SP_1A10.sch)|
 |Spectral Library|1.8.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/speclib/v1/PDS4_SPECLIB_1000.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/speclib/v1/PDS4_SPECLIB_1000.sch)|
-|Wave|1.4.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.sch)|[github](https://github.com/nasa-pds-data-dictionaries/ldd-wave)|s
+|Wave|1.4.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.sch)|[github](https://github.com/nasa-pds-data-dictionaries/ldd-wave)|
 
 The complete list of dictionaries is available [here](https://pds.nasa.gov/datastandards/schema/released/)
 
