@@ -44,6 +44,8 @@ The complete list of dictionaries is available [here](https://pds.nasa.gov/datas
 
 * [SBN Wiki](http://sbndev.astro.umd.edu/wiki/SBN_PDS4_Wiki)
   * [Small Bodies Target Names](http://sbndev.astro.umd.edu/wiki/Target_Names)
+  * [Authoring a Data Dictionary Ingest File](http://sbndev.astro.umd.edu/wiki/Creating_the_Ingest_LDD_Dictionary_Input_File)
+  * [Standard Values Quick Reference](http://sbndev.astro.umd.edu/wiki/Standard_Values_Quick_Reference#In_.3CPrimary_Result_Summary.3E.2F.3CScience_Facets.3E_3)
 
 ## Tools
 
