@@ -14,6 +14,8 @@ The current version of the standard is _1B00_ aka _1.11_
 
 ## Current Discipline Dictionaries
 
+Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
+
 |Discipline|Version|Schema|Schematron|GitHub
 |-|-|-|-|-|
 Cartography|1.9.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/cart/v1/PDS4_CART_1900.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/cart/v1/PDS4_CART_1900.sch)|
