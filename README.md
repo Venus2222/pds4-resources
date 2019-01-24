@@ -12,6 +12,12 @@ The current version of the standard is _1B00_ aka _1.11_
 
 [Schematron](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1B00.sch)
 
+## PDS Resources
+
+[Concepts Document](https://pds.nasa.gov/datastandards/documents/concepts)
+
+[Data Preparer's Handbook](https://pds.nasa.gov/datastandards/documents/dph/current)
+
 ## Current Discipline Dictionaries
 
 Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
