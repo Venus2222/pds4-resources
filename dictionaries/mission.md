@@ -3,7 +3,7 @@
 |Discipline|Version|Schema|Schematron|GitHub
 |-|-|-|-|-|
 |Cassini|1.11.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/mission/cassini/v1/PDS4_CASSINI_1B00_1200.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/mission/cassini/v1/PDS4_CASSINI_1B00_1200.sch)|
-|DAWN|1.V.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/mission/dawn/v1/PDS4_DAWN_1B00_1000.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/mission/dawn/v1/PDS4_DAWN_1B00_1000.sch)|
+|DAWN|1.B.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/mission/dawn/v1/PDS4_DAWN_1B00_1000.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/mission/dawn/v1/PDS4_DAWN_1B00_1000.sch)|
 |Insight|1.B.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/mission/insight/v1/PDS4_INSIGHT_1B00_1840.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/mission/insight/v1/PDS4_INSIGHT_1B00_1840.sch)|
 |Juno|1.9.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/mission/juno/v1/PDS4_JUNO_1900.xsd)|[sch](https://pds.nasa.gov/datastandards/schema/released/mission/juno/v1/PDS4_JUNO_1900.sch)||
 |LADEE|1.1.0.0|[xsd](https://pds.nasa.gov/datastandards/schema/released/ladee/v1/ladee_1100.xsd)|||
