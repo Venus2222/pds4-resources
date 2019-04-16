@@ -1,16 +1,4 @@
-# Dictionaries for 1A00
-
-## Core Dictionary
-
-[Standards Document](https://pds.nasa.gov/datastandards/documents/sr/v1/StdRef_1.7.0.pdf)
-
-[Information Model](https://pds.nasa.gov/datastandards/documents/im/current/index_1700.html)
-
-[Schema](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1700.xsd)
-
-[Schematron](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1700.sch)
-
-## Discipline Dictionaries
+# Mission Dictionaries
 
 |Discipline|Version|Schema|Schematron|GitHub
 |-|-|-|-|-|
