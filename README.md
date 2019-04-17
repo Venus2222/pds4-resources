@@ -74,6 +74,8 @@ Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
 
 [PDS4 Viewer](http://sbndev.astro.umd.edu/wiki/PDS4_Viewer) - [github](https://github.com/Small-Bodies-Node/pds4_tools)
 
+[Sample Data Dictionary Project Template](https://github.com/nasa-pds-data-dictionaries/ldd-template)
+
 Additional tools are available at the [PDS Tool Registry](https://pds.nasa.gov/tools/tool-registry/)
 
 ## Nodes
