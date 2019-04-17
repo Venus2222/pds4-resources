@@ -62,19 +62,17 @@ Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
 
 ## Tools
 
-[PLAID](https://plaid.jpl.nasa.gov/) - [github](https://github.com/nasa-pds/PLAID)
-
-[OLAF](https://olaf.psi.edu)
-
-[Validate](https://pds.jpl.nasa.gov/tools/about/validate/)
-
-[LDDTool](https://pds.jpl.nasa.gov/tools/about/ldd/)
-
-[LD3](https://ld3.psi.edu) - [github](https://github.com/sbn-psi/ldd-transform)
-
-[PDS4 Viewer](http://sbndev.astro.umd.edu/wiki/PDS4_Viewer) - [github](https://github.com/Small-Bodies-Node/pds4_tools)
-
-[Sample Data Dictionary Project Template](https://github.com/nasa-pds-data-dictionaries/ldd-template)
+* Label and Product Creation
+  * [PLAID](https://plaid.jpl.nasa.gov/) - [github](https://github.com/nasa-pds/PLAID)
+  * [OLAF](https://olaf.psi.edu)
+* Data Dictionary Creation
+  * [LDDTool](https://pds.jpl.nasa.gov/tools/about/ldd/)
+  * [LD3](https://ld3.psi.edu) - [github](https://github.com/sbn-psi/ldd-transform)
+  * [Sample Data Dictionary Project Template](https://github.com/nasa-pds-data-dictionaries/ldd-template)
+* Product Validation
+  * [Validate](https://pds.jpl.nasa.gov/tools/about/validate/)
+* Prodct Viewers
+  * [PDS4 Viewer](http://sbndev.astro.umd.edu/wiki/PDS4_Viewer) - [github](https://github.com/Small-Bodies-Node/pds4_tools)
 
 Additional tools are available at the [PDS Tool Registry](https://pds.nasa.gov/tools/tool-registry/)
 
