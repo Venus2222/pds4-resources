@@ -2,15 +2,15 @@
 
 ## Current Standard
 
-The current version of the standard is _1B00_ aka _1.11_
+The current version of the standard is _1C00_ aka _1.12_,  released _June 18, 2019_
 
 [Standards Document](https://pds.nasa.gov/datastandards/documents/sr/current)
 
 [Information Model](https://pds.nasa.gov/datastandards/documents/im/current)
 
-[Schema](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1B00.xsd)
+[Schema](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1C00.xsd)
 
-[Schematron](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1B00.sch)
+[Schematron](https://pds.nasa.gov/datastandards/schema/released/pds/v1/PDS4_PDS_1C00.sch)
 
 ## PDS Resources
 
