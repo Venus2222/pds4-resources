@@ -38,6 +38,7 @@ Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
 | Spectral               | 1.10.1.0 | [xsd](https://pds.nasa.gov/datastandards/schema/released/sp/v1/PDS4_SP_1B00_1100.xsd)                   | [sch](https://pds.nasa.gov/datastandards/schema/released/sp/v1/PDS4_SP_1B00_1100.sch)                   |                                                                                                                 |                                                                      |
 | Spectral Library       | 1.8.0.0  | [xsd](https://pds.nasa.gov/datastandards/schema/released/speclib/v1/PDS4_SPECLIB_1000.xsd)              | [sch](https://pds.nasa.gov/datastandards/schema/released/speclib/v1/PDS4_SPECLIB_1000.sch)              |                                                                                                                 |                                                                      |
 | Wave                   | 1.4.0.0  | [xsd](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.xsd)                    | [sch](https://pds.nasa.gov/datastandards/schema/released/wave/v1/PDS4_WAVE_1000.sch)                    | [ldd](https://raw.githubusercontent.com/pds-data-dictionaries/ldd-wave/master/src/1.0.0.0/ldd-wave.xml)         | [github](https://github.com/nasa-pds-data-dictionaries/ldd-wave)     |
+
 [Mission Dictionaries](dictionaries/mission.html)
 
 [All Dictionaries](dictionaries/index.html)
