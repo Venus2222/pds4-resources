@@ -42,6 +42,8 @@ Based on [PDS4 Schema Page](https://pds.nasa.gov/datastandards/schema/released/)
 
 [Superseded Dictionaries](dictionaries/superseded.html)
 
+[Dictionaries In Development](dictionaries/in_development.html)
+
 [All Dictionaries](dictionaries/index.html)
 
 ## Context Products
